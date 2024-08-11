@@ -1,6 +1,5 @@
 
-🌱 I’m currently learning this Roadmap [HTML, CSS, JavaScript, CSS Framework, Fetch API, Terminal {Git and GitHub}, Node.js Framework, SQL{MySQL}, NoSQL{MonggoDB}, JavaScript Framework, TypeScript, Computer Networking, Cloud Computing, Security, Meta-frameworks] 
-
+🌱 I’m currently learning this Roadmap [Statistics, Excel, SQL, Python and Tableau]
 📫 How to reach me ... perezabiel03@gmail.com
 
 
