@@ -1,5 +1,6 @@
 
 🌱 I’m currently learning this Roadmap [Statistics, Excel, SQL, Python and Tableau]
+
 📫 How to reach me ... perezabiel03@gmail.com
 
 
