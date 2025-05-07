@@ -1,5 +1,5 @@
 
-🌱 I’m currently learning this Roadmap [Statistics, Excel, SQL, Python and Tableau/Power BI]
+🌱 Showcasing my projects and experience as a Data Analyst. Continuously developing my skills in Excel, Power BI, Tableau, SQL, and Python.
 
 📫 How to reach me ... perezabiel03@gmail.com
 
